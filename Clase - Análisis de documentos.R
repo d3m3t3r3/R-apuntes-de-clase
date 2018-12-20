@@ -32,8 +32,6 @@ library(openNLPmodels.en)
 # http://opennlp.apache.org/
 # Modelos: http://opennlp.sourceforge.net/models-1.5/
 # Lexicon: http://web.eecs.umich.edu/~mihalcea/downloads/SpanishSentimentLexicons.tar.gz
-# Palabras de parada: http://bit.ly/2S1hHz1
-# Documentos de prueba: http://bit.ly/2SNIsaa
 
 # Leyendo los documentos
 
