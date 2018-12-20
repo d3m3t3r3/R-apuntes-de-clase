@@ -9,4 +9,6 @@ Colaboraciones actuales:
 Apuntes de clase unificados (unificación): Juan.
 Apuntes de clase unificados (apuntes propios): Danilo, Harvey, Josué, Juan.
 
+Sube los documentos o textos que consideres importantes para éste repositorio en la carpeta aportes, puedes subclasificarlos como consideres mejor.
+
 Recibimos aportes permanentemente.
