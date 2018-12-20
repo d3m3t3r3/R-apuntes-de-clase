@@ -1,3 +1,16 @@
+# Análisis de texto -------------------------------------------------------
+
+# Instalaciones -----------------------------------------------------------
+install.packages("dplyr")
+install.packages("tidytext")
+install.packages("pdftools")
+install.packages("gutenbergr")
+install.packages("tm")
+# Quitar comentario en los siguientes 2 si se requiere intstalar
+# install.packages("openNLPmodels.en", dependencies=TRUE, repos = "http://datacube.wu.ac.at/")
+# install.packages("openNLPmodels.es", dependencies=TRUE, repos = "http://datacube.wu.ac.at/")
+
+# Cargando librerías ------------------------------------------------------
 library(dplyr)
 library(tidytext) # Libreria para crear texto ordenado
 library(janeaustenr)
@@ -7,8 +20,6 @@ library(scales)
 library(pdftools)
 library(gutenbergr)
 library(tm)
-# install.packages("openNLPmodels.en", dependencies=TRUE, repos = "http://datacube.wu.ac.at/")
-# install.packages("openNLPmodels.es", dependencies=TRUE, repos = "http://datacube.wu.ac.at/")
 library(tidyr)
 library(rvest)
 library(NLP)
@@ -17,11 +28,12 @@ library(wordcloud)
 library(openNLPmodels.es)
 library(openNLPmodels.en)
 
+# Enlaces útiles ----------------------------------------------------------
 # http://opennlp.apache.org/
 # Modelos: http://opennlp.sourceforge.net/models-1.5/
 # Lexicon: http://web.eecs.umich.edu/~mihalcea/downloads/SpanishSentimentLexicons.tar.gz
 # Palabras de parada: http://bit.ly/2S1hHz1
-# Documentos: http://bit.ly/2SNIsaa
+# Documentos de prueba: http://bit.ly/2SNIsaa
 
 # Leyendo los documentos
 
