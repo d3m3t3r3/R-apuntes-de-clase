@@ -1,0 +1,31 @@
+APELLIDO.1	APELLIDO.2	NOMBRE.1	NOMBRE.2	CORREO.ELECTRONICO	CARGO
+Porra	Arenas	Martha 	Lucia	alcaldia@angostura-antioquia.gov.co	Alcaldesa
+Rios	Monsalve	Gloria	Eulenia	sisben@angostura-antioquia.gov.co	Coordinadora Sisben
+Agudelo	Echeverria	Rubiel	Alberto	umata@angostura-antioquia.gov.co	Secretario agricultura
+Madrigal	Hoyos 	Esmerda	Lucia	madrigal2266@gmail.com	Aux. Adm. Secretaria de Gobierno
+Echeverry	Zapata	Hernado	Jesús		Administración Pasivo Pensional
+Henao	Zapata	Martha 	Elena	gobierno@angostura-antioquia.gov.co	Aux. Servicios Generales
+Pareja	Arango	Fernando	de Jesus	angosturaestereo89.2@gmail.com	Locutor Emisora
+Grisales	Ortiz	Lina	Marcela		Auxiliar de recuado
+Ayala	Mira	Luz	Elena	casamuseo.angostura@gmail.com	Directora Museo
+Fernandez	Gómez	Jose	Alirio	gobierno@angostura-antioquia.gov.co	Asesor Administrativo Abogado
+Perez	Gaviria	Yasmir	Andrea	planeacion@angostura-antioquia.gov.co	Secretaria de Planeación
+Hernandez	Villagran	Marisol		planeacion@angostura-antioquia.gov.co	Aux.Adm. Planeación
+Restrepo	Cárdenas		Fredy	depote@angostura-antioquia.gov.co	Promotor deportivo
+Atehortua	Atehortua	Nai	de Jesus	gobierno@angostura-antioquia.gov.co	Asesor de contratación
+Velez	Loaiza	Jhuliana 	Maria	umata@angostura-antioquia.gov.co	Aux. Adm. Secretaria Agricultura
+Sepúlveda	Orrego		José	umata@angostura-antioquia.gov.co	Medico veterinario
+Villa	Taborda	Andres	Felipe	depote@angostura-antioquia.gov.co	Coordinador de deportes
+Restrepo	Priscos	Hernan	Dario	planeacion@angostura-antioquia.gov.co	Conductor de ruta
+Bustamante	Taborda	Luis 	Reinaldo	tesoreria@angostura-antioquia.gov.co	Apoyo tesoreria rentas
+Trobón	Cardona	Eliana 	Patricia	elianatobonc@yahoo.es 	Asesora Control Interno
+Mendoza		Monica	Patricia	gobierno@angostura-antioquia.gov.co	Enlace familias en acción
+Gaviria	Rua	Jorge 	Ignacio	gobierno@angostura-antioquia.gov.co	Técnico en Sistemas
+Martinez	Velez	Carmen 	Elena	casamuseo.angostura@gmail.com	Turismo
+Soto	Angulo	Maria	Mercedes	planeacion@angostura-antioquia.gov.co	Atención al usuario
+Betancur	Pineda	Mauro	Albeiro	planeacion@angostura-antioquia.gov.co	Conductor
+Mora	Taborda	Yohan	Adrian	casamuseo.angostura@gmail.com	Monitor de Danzas
+Arango	Posada	Marlen	Haygnes	comisaria@angostura-antioquia.gov.co	Comisaria de Familias
+Gómez	Zapata	Andres	Felipe	gobierno@angostura-antioquia.gov.co	Director Escuela de Musica
+Vargas	Correa	Luis 	Fernando	planeacion@angostura-antioquia.gov.co	Funcionario de Catastro
+Hincapie	Gonzalez		Dario	inspecion@angostura-antioquia.gov.co	Inspector Municipal de Policia
