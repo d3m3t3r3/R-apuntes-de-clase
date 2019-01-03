@@ -1,0 +1,9 @@
+# SWIRL: Interactive course --------------------------------------
+
+# Swirl is an interactive course that works from the R console, it is compatible with Rstudio app
+
+install.packages("swirl")
+library(swirl)
+swirl()
+
+# And follow the instructions...
